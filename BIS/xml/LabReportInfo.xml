@@ -1,0 +1,406 @@
+<LabReportInfo>
+  <PatientInfo>
+    <Station>21ES</Station>
+    <inhospid>00000000000011747991</inhospid>
+    <WardBed>21ES69</WardBed>
+    <PatientName>張菽萍</PatientName>
+    <PatientNameSecurity>張○萍</PatientNameSecurity>
+    <PatientBirthday>1989/02/05</PatientBirthday>
+    <PatientChartNo>16735319</PatientChartNo>
+    <LabColorDesc>&lt;span style="color: #0000FF;"&gt;藍色：低於參考值、&lt;/span&gt;&lt;span style="color: #FF0000;"&gt;紅色：高於參考值、&lt;/span&gt;&lt;span style="color: #000000;"&gt;黑色：正常值&lt;/span&gt;</LabColorDesc>
+  </PatientInfo>
+  <LabReport>
+    <LabExecDate LabDate="2018/07/10">
+      <LabType LabTypeCode="03" LabTypeName="腎功能檢查">
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>CREA(肌酸酐)</LabFullName>
+          <LabValue>0.67</LabValue>
+          <LabUnit>mg/dL</LabUnit>
+          <LabRefValue>男:0.64~1.27;女:0.44~1.03;(2017/08/25前參考值: 0.6-1.3 mg/dL)</LabRefValue>
+          <LabName4Query>CREA</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>BUN(血中尿素氮)</LabFullName>
+          <LabValue>12.0</LabValue>
+          <LabUnit>mg/dL</LabUnit>
+          <LabRefValue>8~20;</LabRefValue>
+          <LabName4Query>BUN</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+      </LabType>
+      <LabType LabTypeCode="05" LabTypeName="肝功能檢查">
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>AST(天門冬胺酸轉胺酉每)</LabFullName>
+          <LabValue>17</LabValue>
+          <LabUnit>IU/L</LabUnit>
+          <LabRefValue>10~42;</LabRefValue>
+          <LabName4Query>AST</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>ALT(丙胺酸轉胺酉每)</LabFullName>
+          <LabValue>13</LabValue>
+          <LabUnit>IU/L</LabUnit>
+          <LabRefValue>10~40;</LabRefValue>
+          <LabName4Query>ALT</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+      </LabType>
+      <LabType LabTypeCode="08" LabTypeName="一般血液檢查">
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>RDW(紅血球分布寬度)</LabFullName>
+          <LabValue>14.9</LabValue>
+          <LabUnit>%</LabUnit>
+          <LabRefValue>11.7~14.7;2015.05.09 12:00前參考值:11.6-14.6</LabRefValue>
+          <LabName4Query>RDW</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#FF0000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>HGB(血色素)</LabFullName>
+          <LabValue>11.9</LabValue>
+          <LabUnit>g/dL</LabUnit>
+          <LabRefValue>男:13.4~17.2;女:11.1~15.1;&lt;1day:14.2~17.2; 
+1day~8day:14.0~17.4; 
+9day~&lt;6M:9.6~12.8; 
+&gt;6M~6yr:11.6~13.7
+2015.05.09 12:00前成人參考值:
+男性: 14-17.5, 女性: 12.3-15.3</LabRefValue>
+          <LabName4Query>HGB</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>WBC(白血球)</LabFullName>
+          <LabValue>4.32</LabValue>
+          <LabUnit>x1000/uL</LabUnit>
+          <LabRefValue>4.14~10.52;&lt;1day:14.3~24.9; 
+1day~8day:5.2~13.4; 
+9day~&lt;1yr:5.3~12.0; 
+&gt;1yr~4yr:6.7~11.8; 
+&gt;4yr~6yr:6~10.4
+2015.05.09 12:00前參考值:4.4-11.3</LabRefValue>
+          <LabName4Query>WBC</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>RBC(紅血球)</LabFullName>
+          <LabValue>4.69</LabValue>
+          <LabUnit>x10^6/uL</LabUnit>
+          <LabRefValue>男:4.31~5.95;女:3.8~5.08;&lt;1day:4.01~4.93; 
+1day~8day:3.99~4.98; 
+9day~&lt;6M:2.89~4.83; 
+&gt;6M~6yr:4.28~5.05
+2015.05.09 12:00 前參考值:
+男性: 4.5-5.9, 女性: 4-5.1
+</LabRefValue>
+          <LabName4Query>RBC</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>LYMPH(淋巴球)</LabFullName>
+          <LabValue>23.1</LabValue>
+          <LabUnit>%</LabUnit>
+          <LabRefValue>20.7~49.2;&lt;1day:12.9~27.7; 
+1day~8day:16.8~48.1; 
+9day~&lt;1yr:55.6~82.6; 
+&gt;1yr~4yr:44.7~81.6; 
+&gt;4yr~6yr:34.4~62.8
+2015.05.09 12:00前成人參考值: 20-50</LabRefValue>
+          <LabName4Query>LYMPH</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>Normobl(紅芽細胞)</LabFullName>
+          <LabValue>0.0</LabValue>
+          <LabUnit>%</LabUnit>
+          <LabRefValue>0~0.2;</LabRefValue>
+          <LabName4Query>Normobl</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>MONO(單核球)</LabFullName>
+          <LabValue>4.6</LabValue>
+          <LabUnit>%</LabUnit>
+          <LabRefValue>3.6~9.2;&lt;1day:3.5~9.5; 
+1day~8day:5.2~19.6; 
+9day~&lt;1yr:1.2~11.7; 
+&gt;1yr~4yr:1.3~7.2; 
+&gt;4yr~6yr:2~7.6
+2015.05.09 12:00前成人參考值: 1-10</LabRefValue>
+          <LabName4Query>MONO</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>BASO(嗜鹼性球)</LabFullName>
+          <LabValue>0.2</LabValue>
+          <LabUnit>%</LabUnit>
+          <LabRefValue>0.2~1.5;2015.05.09 12:00前成人參考值:0-2</LabRefValue>
+          <LabName4Query>BASO</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>EOSIN(嗜酸性球)</LabFullName>
+          <LabValue>0.5</LabValue>
+          <LabUnit>%</LabUnit>
+          <LabRefValue>0.5~7.5;&lt;1day:0~3.3; 
+1day~8day:1~6.1; 
+9day~&lt;1yr:0.1~7.3; 
+&gt;1yr~4yr:0~4.3; 
+&gt;4yr~6yr:0~6.8
+2015.05.09 12:00前成人參考值:1-7</LabRefValue>
+          <LabName4Query>EOSIN</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>HCT(血球容積比)</LabFullName>
+          <LabValue>36.2</LabValue>
+          <LabUnit>%</LabUnit>
+          <LabRefValue>男:39.8~50.7;女:34.7~45.1;&lt;1day:43.3~52.3; 
+1day~8day:41.0~51.4; 
+9day~&lt;6M:27.3~37.2; 
+&gt;6M~6yr:34.2~39.8
+2015.05.09 12:00前成人參考值:
+男性: 41.5-50.4, 女性: 35.9-44.6</LabRefValue>
+          <LabName4Query>HCT</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>MCV(平均血球容積比)</LabFullName>
+          <LabValue>77.2</LabValue>
+          <LabUnit>fl</LabUnit>
+          <LabRefValue>83.4~98.5;&lt;1day:103.9~110.1; 
+1day~8day:97.4~106.7; 
+9day~&lt;6M:74.9~98.8; 
+&gt;6M~6yr:74.9~84.6
+2015.05.09 12:00前成人參考值: 80-96.1</LabRefValue>
+          <LabName4Query>MCV</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#0000FF</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>MCH(平均血色素比)</LabFullName>
+          <LabValue>25.4</LabValue>
+          <LabUnit>Pg</LabUnit>
+          <LabRefValue>27.4~33.3;&lt;1day:33.9~36.3; 
+1day~8day:33.3~36.1; 
+9day~&lt;6M:25.5~33.7; 
+&gt;6M~6yr:25.2~29.13
+2015.05.09 12:00前成人參考值: 27.5-33.2</LabRefValue>
+          <LabName4Query>MCH</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#0000FF</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>MCHC(平均血球血色素濃度)</LabFullName>
+          <LabValue>32.9</LabValue>
+          <LabUnit>g/dL</LabUnit>
+          <LabRefValue>32.1~35.2;&lt;1day:32.5~33.3; 
+1day~8day:32.9~34.9; 
+9day~&lt;6M:32.9~35.6; 
+&gt;6M~6yr:32.6~35.1
+2015.05.09 12:00前成人參考值:33.4-35.5</LabRefValue>
+          <LabName4Query>MCHC</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>PLT(血小板)</LabFullName>
+          <LabValue>177</LabValue>
+          <LabUnit>x1000/uL</LabUnit>
+          <LabRefValue>160~370;2015.05.09 12:00前參考值:172-450</LabRefValue>
+          <LabName4Query>PLT</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>NEUT(嗜中性球)</LabFullName>
+          <LabValue>71.6</LabValue>
+          <LabUnit>%</LabUnit>
+          <LabRefValue>41.8~70.8;&lt;1day:61.2~79.6; 
+1day~8day:32.6~70.7; 
+9day~&lt;1yr:9.4~30.4; 
+&gt;1yr~4yr:13.9~49.5; 
+&gt;4yr~6yr:27.8~57.6
+2015.05.09 12:00前成人參考值:40-75</LabRefValue>
+          <LabName4Query>NEUT</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#FF0000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+      </LabType>
+      <LabType LabTypeCode="09" LabTypeName="其它">
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>TSH(甲狀腺刺激素)</LabFullName>
+          <LabValue>0.32</LabValue>
+          <LabUnit>uIU/mL</LabUnit>
+          <LabRefValue>0.34~5.60;</LabRefValue>
+          <LabName4Query>TSH</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#0000FF</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>β-HCG(乙型人類絨毛膜促性腺激素)</LabFullName>
+          <LabValue>215197</LabValue>
+          <LabUnit>mIU/mL</LabUnit>
+          <LabRefValue>&lt;5;</LabRefValue>
+          <LabName4Query>β-HCG</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#FF0000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>Free T4(游離甲狀腺素)</LabFullName>
+          <LabValue>1.50</LabValue>
+          <LabUnit>ng/dL</LabUnit>
+          <LabRefValue>0.61~1.12;</LabRefValue>
+          <LabName4Query>Free T4</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#FF0000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>NA(鈉)</LabFullName>
+          <LabValue>138</LabValue>
+          <LabUnit>m mol/L</LabUnit>
+          <LabRefValue>136~144;</LabRefValue>
+          <LabName4Query>NA</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/10 15:20</LabExecDatetime>
+          <LabFullName>K(鉀)</LabFullName>
+          <LabValue>3.9</LabValue>
+          <LabUnit>m mol/L</LabUnit>
+          <LabRefValue>3.5~5.1;</LabRefValue>
+          <LabName4Query>K</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#000000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+      </LabType>
+    </LabExecDate>
+    <LabExecDate LabDate="2018/08/13">
+      <LabType LabTypeCode="09" LabTypeName="其它">
+        <LabDataInfo>
+          <LabTitle>採檢時間</LabTitle>
+          <LabExecDatetime>2018/07/13 09:59</LabExecDatetime>
+          <LabFullName>β-HCG(乙型人類絨毛膜促性腺激素)</LabFullName>
+          <LabValue>180374</LabValue>
+          <LabUnit>mIU/mL</LabUnit>
+          <LabRefValue>&lt;5;</LabRefValue>
+          <LabName4Query>β-HCG</LabName4Query>
+          <SpecKind4Query>01</SpecKind4Query>
+          <LabFontColor>#FF0000</LabFontColor>
+          <LabFontBold>N</LabFontBold>
+          <LabDesc></LabDesc>
+        </LabDataInfo>
+      </LabType>
+    </LabExecDate>
+  </LabReport>
+</LabReportInfo>

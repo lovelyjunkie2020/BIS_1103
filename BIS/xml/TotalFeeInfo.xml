@@ -1,0 +1,14 @@
+<TotalFeeInfo>
+  <PatientInfo inhospid="00000000000011666146" PatientChartNo="06083970" PatientName="李佾珊" PatientBirthDay="1951/12/18" />
+  <TotalFee Fee="2494" />
+  <NhiFee Fee="0" />
+  <SelfFee Fee="2494">
+    <SelfDetail ItemName="藥劑費" ItemFee="2163" />
+    <SelfDetail ItemName="注射技術費" ItemFee="180" />
+    <SelfDetail ItemName="材料費" ItemFee="15" />
+    <SelfDetail ItemName="輸血費" ItemFee="16" />
+    <SelfDetail ItemName="膳食費" ItemFee="120" />
+  </SelfFee>
+  <DisplayText>以上費用僅供參考，實際金額以出院結帳時的總醫療費用金額為準。&lt;Br&gt;
+查詢顯示的金額，如因作業時間因素而有所不同，敬請見諒。</DisplayText>
+</TotalFeeInfo>
